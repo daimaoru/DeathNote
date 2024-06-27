@@ -5,4 +5,4 @@
 # 京东挂机
 京东车, 支持APP扫二维码登录和手机打开授权登录:
 
-https://ark.leafxxx.win
+http://www.dsange.cn:6888
